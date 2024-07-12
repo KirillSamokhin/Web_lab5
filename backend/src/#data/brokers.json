@@ -1,0 +1,64 @@
+{
+  "brokers": [
+    {
+      "name": "Владимир",
+      "initialValue": 10000,
+      "ownedStocks": [
+        {
+          "symbol": "AAPL",
+          "amount": 31,
+          "spendMoney": 5100.25
+        }
+      ]
+    },
+    {
+      "name": "Борис",
+      "initialValue": 10000,
+      "ownedStocks": [
+        {
+          "symbol": "SBUX",
+          "amount": 12,
+          "spendMoney": 1300.6
+        }
+      ]
+    },
+    {
+      "name": "Егор",
+      "initialValue": 10000,
+      "ownedStocks": [
+        {
+          "symbol": "MSFT",
+          "amount": 55,
+          "spendMoney": 15000.4
+        }
+      ]
+    },
+    {
+      "name": "Кирилл",
+      "initialValue": 10000,
+      "ownedStocks": [
+        {
+          "symbol": "CSCO",
+          "amount": 9,
+          "spendMoney": 500.56
+        }
+      ]
+    },
+    {
+      "name": "Иван",
+      "initialValue": 500,
+      "ownedStocks": [
+        {
+          "symbol": "SBUX",
+          "amount": 12,
+          "spendMoney": 1150.6
+        },
+        {
+          "symbol": "CSCO",
+          "amount": 9,
+          "spendMoney": 440.56
+        }
+      ]
+    }
+  ]
+}

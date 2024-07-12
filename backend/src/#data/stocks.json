@@ -1,0 +1,164 @@
+{
+  "stocks": [
+    {
+      "name": "Apple, Inc.",
+      "symbol": "AAPL",
+      "isTrading": true,
+      "historicalData": "aapl.json",
+      "months": [
+        {"date": "01/01/2023", "price":  "130.28"},
+        {"date": "02/01/2023", "price":  "143.97"},
+        {"date": "03/01/2023", "price":  "146.83"},
+        {"date": "04/01/2023", "price":  "162.44"},
+        {"date": "05/01/2023", "price":  "169.28"},
+        {"date": "06/01/2023", "price":  "177.70"},
+        {"date": "07/01/2023", "price":  "191.63"},
+        {"date": "08/01/2023", "price":  "196.235"},
+        {"date": "09/01/2023", "price":  "189.485"},
+        {"date": "10/01/2023", "price":  "171.22"},
+        {"date": "11/01/2023", "price":  "171.00"},
+        {"date": "12/01/2023", "price":  "190.33"}
+      ]
+    },
+    {
+      "name": "Starbucks, Inc.",
+      "symbol": "SBUX",
+      "isTrading": true,
+      "historicalData": "sbux.json",
+      "months": [
+        {"date": "01/01/2023", "price":  "99.19"},
+        {"date": "02/01/2023", "price":  "108.97"},
+        {"date": "03/01/2023", "price":  "102.19"},
+        {"date": "04/01/2023", "price":  "101.84"},
+        {"date": "05/01/2023", "price":  "114.252"},
+        {"date": "06/01/2023", "price":  "97.59"},
+        {"date": "07/01/2023", "price":  "99.40"},
+        {"date": "08/01/2023", "price":  "101.47"},
+        {"date": "09/01/2023", "price":  "98.40"},
+        {"date": "10/01/2023", "price":  "91.05"},
+        {"date": "11/01/2023", "price":  "91.83"},
+        {"date": "12/01/2023", "price":  "98.50"}
+      ]
+    },
+    {
+      "name": "Microsoft, Inc.",
+      "symbol": "MSFT",
+      "isTrading": true,
+      "historicalData": "msft.json",
+      "months": [
+        {"date": "01/01/2023", "price":  "238.21"},
+        {"date": "02/01/2023", "price":  "248.00"},
+        {"date": "03/01/2023", "price":  "250.76"},
+        {"date": "04/01/2023", "price":  "283.73"},
+        {"date": "05/01/2023", "price":  "306.97"},
+        {"date": "06/01/2023", "price":  "325.93"},
+        {"date": "07/01/2023", "price":  "337.75"},
+        {"date": "08/01/2023", "price":  "335.19"},
+        {"date": "09/01/2023", "price":  "331.31"},
+        {"date": "10/01/2023", "price":  "316.28"},
+        {"date": "11/01/2023", "price":  "339.79"},
+        {"date": "12/01/2023", "price":  "376.76"}
+      ]
+    },
+    {
+      "name": "Cisco Systems, Inc.",
+      "symbol": "CSCO",
+      "isTrading": true,
+      "historicalData": "csco.json",
+      "months": [
+        {"date": "01/01/2023", "price":  "47.86"},
+        {"date": "02/01/2023", "price":  "48.39"},
+        {"date": "03/01/2023", "price":  "48.44"},
+        {"date": "04/01/2023", "price":  "51.44"},
+        {"date": "05/01/2023", "price":  "47.20"},
+        {"date": "06/01/2023", "price":  "49.76"},
+        {"date": "07/01/2023", "price":  "51.88"},
+        {"date": "08/01/2023", "price":  "52.57"},
+        {"date": "09/01/2023", "price":  "57.39"},
+        {"date": "10/01/2023", "price":  "54.16"},
+        {"date": "11/01/2023", "price":  "52.04"},
+        {"date": "12/01/2023", "price":  "48.28"}
+      ]
+    },
+    {
+      "name": "QUALCOMM Incorporated",
+      "symbol": "QCOM",
+      "isTrading": true,
+      "historicalData": "qcom.json",
+      "months": [
+        {"date": "01/01/2023", "price":  "107.97"},
+        {"date": "02/01/2023", "price":  "132.68"},
+        {"date": "03/01/2023", "price":  "123.78"},
+        {"date": "04/01/2023", "price":  "126.65"},
+        {"date": "05/01/2023", "price":  "117.21"},
+        {"date": "06/01/2023", "price":  "114.56"},
+        {"date": "07/01/2023", "price":  "119.60"},
+        {"date": "08/01/2023", "price":  "131.92"},
+        {"date": "09/01/2023", "price":  "115.70"},
+        {"date": "10/01/2023", "price":  "110.40"},
+        {"date": "11/01/2023", "price":  "109.17"},
+        {"date": "12/01/2023", "price":  "129.06"}
+      ]
+    },
+    {
+      "name": "Amazon.com, Inc.",
+      "symbol": "AMZN",
+      "isTrading": true,
+      "historicalData": "amzn.json",
+      "months": [
+        {"date": "01/01/2023", "price":  "83.12"},
+        {"date": "02/01/2023", "price":  "102.53"},
+        {"date": "03/01/2023", "price":  "93.87"},
+        {"date": "04/01/2023", "price":  "102.16"},
+        {"date": "05/01/2023", "price":  "104.95"},
+        {"date": "06/01/2023", "price":  "120.69"},
+        {"date": "07/01/2023", "price":  "129.47"},
+        {"date": "08/01/2023", "price":  "133.55"},
+        {"date": "09/01/2023", "price":  "139.455"},
+        {"date": "10/01/2023", "price":  "127.28"},
+        {"date": "11/01/2023", "price":  "133.96"},
+        {"date": "12/01/2023", "price":  "146.00"}
+      ]
+    },
+    {
+      "name": "Tesla, Inc.",
+      "symbol": "TSLA",
+      "isTrading": true,
+      "historicalData": "tsla.json",
+      "months": [
+        {"date": "01/01/2023", "price":  "119.95"},
+        {"date": "02/01/2023", "price":  "173.89"},
+        {"date": "03/01/2023", "price":  "206.21"},
+        {"date": "04/01/2023", "price":  "197.53"},
+        {"date": "05/01/2023", "price":  "163.17"},
+        {"date": "06/01/2023", "price":  "202.59"},
+        {"date": "07/01/2023", "price":  "260.60"},
+        {"date": "08/01/2023", "price":  "266.26"},
+        {"date": "09/01/2023", "price":  "257.26"},
+        {"date": "10/01/2023", "price":  "250.00"},
+        {"date": "11/01/2023", "price":  "204.04"},
+        {"date": "12/01/2023", "price":  "233.14"}
+      ]
+    },
+    {
+      "name": "Advanced Micro Devices, Inc.",
+      "symbol": "AMD",
+      "isTrading": true,
+      "historicalData": "amd.json",
+      "months": [
+        {"date": "01/01/2023", "price":  "63.77"},
+        {"date": "02/01/2023", "price":  "78.47"},
+        {"date": "03/01/2023", "price":  "78.55"},
+        {"date": "04/01/2023", "price":  "96.34"},
+        {"date": "05/01/2023", "price":  "91.03"},
+        {"date": "06/01/2023", "price":  "117.29"},
+        {"date": "07/01/2023", "price":  "113.03"},
+        {"date": "08/01/2023", "price":  "114.26"},
+        {"date": "09/01/2023", "price":  "107.00"},
+        {"date": "10/01/2023", "price":  "102.21"},
+        {"date": "11/01/2023", "price":  "98.58"},
+        {"date": "12/01/2023", "price":  "119.88"}
+      ]
+    }
+  ]
+}
